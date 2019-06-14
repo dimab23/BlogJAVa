@@ -1,0 +1,1278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Blog:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cf13a91f-a651-4a99-9eae-1db256b116f0" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="274" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="EBS-user@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="EBS-user@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="EBS-user@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="EBS-user: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="EBS-user@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="EBS-user: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="EBS-user@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="EBS-user: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="EBS-user@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="EBS-user: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/articles.ftl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="861">
+              <caret line="353" column="47" selection-end-line="461" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/registration.ftl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/web/Controller/LogController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="386">
+              <caret line="146" column="40" lean-forward="true" selection-start-line="146" selection-start-column="40" selection-end-line="146" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#4394#4614#0" expanded="true" />
+                <element signature="e#4613#4614#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/web/Controller/ProfileController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="90" column="37" selection-start-line="90" selection-start-column="37" selection-end-line="90" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/web/sendEmail/MyConstants.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="56" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://5204f414-91e8-4f33-97f5-92087201fe84/database/EBS-user/schema/public/table/users">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state projectRestartId="6e3bfbb8-6908-4489-82f6-de3c9132315b">
+              <filtering>
+                <filter text="" />
+              </filtering>
+              <column-attributes>
+                <column name="first_name" position="8" />
+                <column name="password" position="5" />
+                <column name="date" position="7" />
+              </column-attributes>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/parts/common.ftl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="140" selection-start-line="7" selection-start-column="140" selection-end-line="7" selection-end-column="140" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/web/sendEmail/MailConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="56" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="21" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="657">
+              <caret line="88" column="21" selection-start-line="88" selection-start-column="21" selection-end-line="88" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/web/Controller/ControllerUser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/web/ModelLikeComments/LikeComments.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/7672fe7a-79a7-496a-b4c7-a026cc0f5586/console.sql" />
+        <option value="$PROJECT_DIR$/src/main/java/web/Coments/Comments.java" />
+        <option value="$PROJECT_DIR$/src/main/java/web/actionrepos/Action.java" />
+        <option value="$PROJECT_DIR$/src/main/java/web/dto.java" />
+        <option value="$PROJECT_DIR$/src/main/java/web/dto/LikeCommentDto.java" />
+        <option value="$PROJECT_DIR$/src/main/java/web/repos/projection/ArticlesView.java" />
+        <option value="$PROJECT_DIR$/src/main/java/web/repos/projection/UserView.java" />
+        <option value="$PROJECT_DIR$/src/main/java/web/repos/projection/CommentsView.java" />
+        <option value="$PROJECT_DIR$/src/main/java/web/Coments/LikeComment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/web/dto/dtoLikeComment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/web/repos/LikeCommentRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/web/repos/ActionRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/ResetPassword.ftl" />
+        <option value="$PROJECT_DIR$/src/main/java/web/model/Comments.java" />
+        <option value="$PROJECT_DIR$/src/main/java/web/model/Users.java" />
+        <option value="$PROJECT_DIR$/src/main/java/web/repos/UsersRepository.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+        <option value="$PROJECT_DIR$/src/main/java/web/model/Notification.java" />
+        <option value="$PROJECT_DIR$/src/main/java/web/Controller/NotificationController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/web/repos/NotificationRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/NewPassword.ftl" />
+        <option value="$PROJECT_DIR$/src/main/java/web/repos/ArticlesRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/Articles.ftl" />
+        <option value="$PROJECT_DIR$/src/Dockerfile" />
+        <option value="$PROJECT_DIR$/target/classes/application.properties" />
+        <option value="$PROJECT_DIR$/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/src/main/java/web/Controller/CommentsController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/web/Controller/ControllerArticles.java" />
+        <option value="$PROJECT_DIR$/src/main/java/web/Run.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/newArticle.ftl" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/login.ftl" />
+        <option value="$PROJECT_DIR$/src/main/java/web/repos/CommentsRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/dima.ftl" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/registration.ftl" />
+        <option value="$PROJECT_DIR$/src/main/java/web/config/CustomAuthenticationFailureHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/web/config/WebSecurity.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/5204f414-91e8-4f33-97f5-92087201fe84/console.sql" />
+        <option value="$PROJECT_DIR$/src/main/java/web/Controller/ForgoutController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/articles{id}.ftl" />
+        <option value="$PROJECT_DIR$/src/main/java/web/Controller/ProfileController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/Profile.ftl" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/parts/login.ftl" />
+        <option value="$PROJECT_DIR$/src/main/java/web/sendEmail/MailConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/articles.ftl" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/parts/common.ftl" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/web/Controller/LogController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Blog" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Blog" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Blog" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="476" />
+    <option name="y" value="39" />
+    <option name="width" value="974" />
+    <option name="height" value="1044" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="02.05.19" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="02.05.19" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="02.05.19" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="02.05.19" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="02.05.19" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="02.05.19" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="Controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="02.05.19" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="sendEmail" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="02.05.19" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="02.05.19" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Blog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="02.05.19" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="parts" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="redshift&#10;postgresql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../blog-java" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\02.05.19\src\main\resources\templates\static" />
+      <recent name="D:\02.05.19\src\main\resources\templates\parts" />
+      <recent name="D:\02.05.19" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\02.05.19\src\main\resources\templates\parts\images" />
+      <recent name="D:\02.05.19\src\main\resources\templates\images" />
+      <recent name="C:\Users\DELL\Desktop\02.05.19\src\main\java\web" />
+      <recent name="D:\02.05.19\src\main\resources\templates\img" />
+      <recent name="D:\02.05.19\src\main\resources\templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.010286951" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.Run">
+    <configuration name="Blog.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/Blog.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Run" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Blog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="web.Controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="web.Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="src/Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker2">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="buildOnly" value="true" />
+          <option name="sourceFilePath" value="src/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Run" />
+        <item itemvalue="JAR Application.Blog.jar" />
+        <item itemvalue="Docker.src/Dockerfile" />
+        <item itemvalue="Docker.src/Dockerfile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringBeansView">
+    <option name="beanDetailsProportion" value="0.3" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf13a91f-a651-4a99-9eae-1db256b116f0" name="Default Changelist" comment="" />
+      <created>1556779112769</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556779112769</updated>
+      <workItem from="1556779114294" duration="26675000" />
+      <workItem from="1556862262893" duration="31630000" />
+      <workItem from="1557207576735" duration="31296000" />
+      <workItem from="1557293907388" duration="29099000" />
+      <workItem from="1557324029959" duration="1304000" />
+      <workItem from="1557746933120" duration="133000" />
+      <workItem from="1557752165520" duration="1980000" />
+      <workItem from="1557813060427" duration="174000" />
+      <workItem from="1557813383154" duration="21000" />
+      <workItem from="1557823712461" duration="659000" />
+      <workItem from="1558158411788" duration="17847000" />
+      <workItem from="1558180588934" duration="6896000" />
+      <workItem from="1558419929494" duration="27965000" />
+      <workItem from="1558503948318" duration="52000" />
+      <workItem from="1558504056934" duration="1248000" />
+      <workItem from="1558505411631" duration="18000" />
+      <workItem from="1558533470066" duration="3939000" />
+      <workItem from="1558591126846" duration="26243000" />
+      <workItem from="1558680552620" duration="313000" />
+      <workItem from="1558680886048" duration="416000" />
+      <workItem from="1558685793343" duration="88000" />
+      <workItem from="1558694079069" duration="13251000" />
+      <workItem from="1558774384467" duration="13416000" />
+      <workItem from="1558935499084" duration="2035000" />
+      <workItem from="1558939353275" duration="9290000" />
+      <workItem from="1558952959668" duration="16523000" />
+      <workItem from="1559022005791" duration="27779000" />
+      <workItem from="1559054298770" duration="747000" />
+      <workItem from="1559135027599" duration="6317000" />
+      <workItem from="1559194785345" duration="27803000" />
+      <workItem from="1559281517361" duration="9824000" />
+      <workItem from="1559312833314" duration="3593000" />
+      <workItem from="1559540514433" duration="7299000" />
+      <workItem from="1559550088765" duration="4481000" />
+      <workItem from="1559557429778" duration="14852000" />
+      <workItem from="1559628090010" duration="611000" />
+      <workItem from="1559644122437" duration="10658000" />
+      <workItem from="1559714442404" duration="11684000" />
+      <workItem from="1559731236982" duration="6000" />
+      <workItem from="1559734187185" duration="4341000" />
+      <workItem from="1559806743638" duration="11928000" />
+      <workItem from="1559828790507" duration="2053000" />
+      <workItem from="1559889523809" duration="26761000" />
+      <workItem from="1560146138778" duration="8855000" />
+      <workItem from="1560232312985" duration="1170000" />
+      <workItem from="1560234446779" duration="7756000" />
+      <workItem from="1560253357425" duration="5000" />
+      <workItem from="1560256763172" duration="651000" />
+      <workItem from="1560261151781" duration="837000" />
+      <workItem from="1560262727480" duration="2000" />
+      <workItem from="1560323937604" duration="10596000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="463120000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4307036" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32827735" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3109426" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.85373783" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32936078" />
+      <window_info anchor="bottom" id="Database Console" order="8" weight="0.3261105" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32827735" />
+      <window_info anchor="bottom" id="Docker" order="10" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.8569881" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3163597" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32936078" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="bottom" id="Run Dashboard" order="16" visible="true" weight="0.4637053" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.5959488" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Database" order="8" sideWeight="0.4955357" weight="0.1924307" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="Coverage" order="10" sideWeight="0.50446427" side_tool="true" weight="0.4003198" />
+      <window_info anchor="right" id="Codota" order="11" weight="0.32995737" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Blog$Run.ic" NAME="Run Coverage Results" MODIFIED="1557305909488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>web.config.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>em.createQuery(&quot;select new web.dto.dtoLikeComment(m) from LikeComment m&quot;).getResultList();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>em.createQuery(&quot;select new web.dto.dtoLikeComment(1,m) from LikeComment m&quot;).getResultList();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>em.createQuery(&quot;select new web.dto.dtoLikeComment(m ) from LikeComment m&quot;).getResultList();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>em.createQuery(&quot;select new web.dto.dtoLikeComment(m,0,false ) from LikeComment m&quot;).getResultList();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>em.createQuery(&quot;select new web.dto.dtoLikeComment(m) from LikeComment m&quot;).getResultList()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>em.createQuery(&quot;select new web.dto from dtoLikeComment m&quot;).getResultList()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>em.createQuery(&quot;select id ,count() from  LikeComment a&quot;).getResultList();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>em.createQuery(&quot;from  LikeComment a&quot;).getResultList();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>em.createQuery(&quot;from  Articles a&quot;).getResultList();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>em.createQuery(&quot;select count(*) from  Articles a where a.id=96&quot;).getResultList()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>em.createQuery(&quot;select count(*) from  Articles a where a.id&quot;).getResultList()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>em.createQuery(&quot;select count(*) from  Articles a where a.id=96&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>em.createQuery(&quot;count(*) from  Articles a where a.id=96&quot;).getResultList()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>em.createQuery(&quot;from Articles a&quot;).getResultList()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>em.createQuery(&quot;from Articles a&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>((ProxyFactory)((JdkDynamicAopProxy)this.h).advised).frozen</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>org.springframework.aop.framework.JdkDynamicAopProxy,org.springframework.aop.framework.ProxyFactory,java.lang.reflect.Proxy</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.34/tomcat-embed-core-8.5.34.jar!/javax/servlet/http/HttpServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="232" selection-start-line="232" selection-end-line="232" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/templates/parts/login.ftl" />
+    <entry file="file://$PROJECT_DIR$/target/classes/templates/articles.ftl" />
+    <entry file="file://$PROJECT_DIR$/target/classes/templates/articles{id}.ftl" />
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/maven-archiver/pom.properties" />
+    <entry file="file://$PROJECT_DIR$/target/classes/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml" />
+    <entry file="das://5204f414-91e8-4f33-97f5-92087201fe84/database/EBS-user/schema/public/table/comments">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="c71feb06-06a0-4eff-a757-c56c11bfac2a">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/block.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="248" column="16" selection-start-line="248" selection-start-column="16" selection-end-line="248" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/newArticle.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="673">
+          <caret line="392" column="128" selection-start-line="392" selection-start-column="128" selection-end-line="392" selection-end-column="128" />
+          <folding>
+            <element signature="e#13636#13707#0#HTML" expanded="true" />
+            <element signature="e#14503#14575#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/parts/images/logo.ico" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/parts/images/logo1.ico" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/web/repos/CommentsRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#0#49#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/web/repos/NotificationRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="55" selection-start-line="34" selection-start-column="55" selection-end-line="34" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/parts/dima.ft" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/dima.ftl" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/web/config/MvcConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/web/config/CustomAuthenticationFailureHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/web/Controller/CommentsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="43" column="78" selection-start-line="43" selection-start-column="78" selection-end-line="43" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/web/Controller/ControllerArticles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="61" column="26" selection-start-line="61" selection-start-column="26" selection-end-line="61" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/web/config/WebSecurity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/login.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://5204f414-91e8-4f33-97f5-92087201fe84/database/EBS-user/schema/public/table/dwh">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="305bc963-1ce2-49a9-8f4c-2ece9e705c01">
+          <filtering />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/web/Controller/NotificationController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/Profile.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="637" column="102" selection-start-line="637" selection-start-column="102" selection-end-line="637" selection-end-column="102" />
+          <folding>
+            <element signature="e#22508#22567#0#HTML" expanded="true" />
+            <element signature="e#22614#22669#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/articles{id}.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12308">
+          <caret line="724" column="151" selection-start-line="724" selection-start-column="151" selection-end-line="724" selection-end-column="151" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/5204f414-91e8-4f33-97f5-92087201fe84/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.users">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.users</OriginalElement>
+          <nodes>
+            <node x="" y="">5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.users</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="680.0" y="102.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.articles">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.articles</OriginalElement>
+          <nodes>
+            <node x="" y="">5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.articles</node>
+            <node x="" y="">5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.users</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="680.0" y="185.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.notification">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.notification</OriginalElement>
+          <nodes>
+            <node x="" y="">5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.articles</node>
+            <node x="" y="">5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.users</node>
+            <node x="" y="">5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.notification</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="695.0" y="301.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.action">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.action</OriginalElement>
+          <nodes>
+            <node x="24.25" y="420.0">5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.action</node>
+            <node x="2.75" y="0.0">5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.users</node>
+            <node x="0.0" y="254.0">5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.articles</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.action" target="5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.articles">
+              <point x="-34.75" y="-58.0" />
+              <point x="0.0" y="58.0" />
+            </edge>
+            <edge source="5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.articles" target="5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.users">
+              <point x="0.0" y="-58.0" />
+              <point x="59.0" y="229.0" />
+              <point x="48.25" y="229.0" />
+              <point x="-45.5" y="102.0" />
+            </edge>
+            <edge source="5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.action" target="5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.users">
+              <point x="34.75" y="-58.0" />
+              <point x="128.5" y="229.0" />
+              <point x="139.25" y="229.0" />
+              <point x="45.5" y="102.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="171.0" y="73.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.comments">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.comments</OriginalElement>
+          <nodes>
+            <node x="" y="">5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.articles</node>
+            <node x="" y="">5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.users</node>
+            <node x="" y="">5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.comments</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="681.5" y="279.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/parts/login.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="68" selection-start-line="2" selection-start-column="68" selection-end-line="2" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/5204f414-91e8-4f33-97f5-92087201fe84.DATABASE:EBS-user">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>5204f414-91e8-4f33-97f5-92087201fe84.DATABASE:EBS-user</OriginalElement>
+          <nodes>
+            <node x="337.0" y="453.0">5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.action</node>
+            <node x="131.27592592592592" y="0.0">5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.users</node>
+            <node x="162.24999999999997" y="254.0">5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.articles</node>
+            <node x="195.0" y="442.0">5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.comments</node>
+            <node x="-4.257112750263435" y="420.0">5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.notification</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.action" target="5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.articles">
+              <point x="-34.75" y="-58.0" />
+              <point x="371.75" y="390.0" />
+              <point x="260.5833333333333" y="390.0" />
+              <point x="39.33333333333334" y="58.0" />
+            </edge>
+            <edge source="5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.articles" target="5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.users">
+              <point x="0.0" y="-58.0" />
+              <point x="221.24999999999997" y="234.0" />
+              <point x="222.27592592592592" y="234.0" />
+              <point x="0.0" y="102.0" />
+            </edge>
+            <edge source="5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.comments" target="5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.articles">
+              <point x="-30.50000000000003" y="-69.0" />
+              <point x="225.49999999999997" y="400.0" />
+              <point x="221.24999999999997" y="400.0" />
+              <point x="0.0" y="58.0" />
+            </edge>
+            <edge source="5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.notification" target="5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.articles">
+              <point x="58.333333333333314" y="-91.0" />
+              <point x="145.83333333333331" y="400.0" />
+              <point x="181.91666666666663" y="400.0" />
+              <point x="-39.33333333333334" y="58.0" />
+            </edge>
+            <edge source="5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.action" target="5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.users">
+              <point x="34.75" y="-58.0" />
+              <point x="441.25" y="224.0" />
+              <point x="295.07592592592596" y="224.0" />
+              <point x="72.80000000000001" y="102.0" />
+            </edge>
+            <edge source="5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.notification" target="5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.users">
+              <point x="0.0" y="-91.0" />
+              <point x="87.5" y="400.0" />
+              <point x="76.26944444444447" y="400.0" />
+              <point x="76.26944444444447" y="234.0" />
+              <point x="185.87592592592594" y="234.0" />
+              <point x="-36.39999999999998" y="102.0" />
+            </edge>
+            <edge source="5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.comments" target="5204f414-91e8-4f33-97f5-92087201fe84.TABLE:EBS-user.public.users">
+              <point x="30.49999999999997" y="-69.0" />
+              <point x="286.5" y="400.0" />
+              <point x="290.75" y="400.0" />
+              <point x="290.75" y="234.0" />
+              <point x="258.675925925926" y="234.0" />
+              <point x="36.400000000000034" y="102.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.9396039603960396" x="235.42676501580613" y="283.42676501580615" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/web/Controller/ForgoutController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="87" column="40" selection-start-line="87" selection-start-column="40" selection-end-line="87" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/web/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="47" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="63" selection-start-line="1" selection-start-column="63" selection-end-line="1" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/web/model/Users.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="103" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/web/repos/UsersRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-440">
+          <caret line="9" column="17" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/articles.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="861">
+          <caret line="353" column="47" selection-end-line="461" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/registration.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/parts/common.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="140" selection-start-line="7" selection-start-column="140" selection-end-line="7" selection-end-column="140" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="657">
+          <caret line="88" column="21" selection-start-line="88" selection-start-column="21" selection-end-line="88" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://5204f414-91e8-4f33-97f5-92087201fe84/database/EBS-user/schema/public/table/notification">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="6e3bfbb8-6908-4489-82f6-de3c9132315b">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/web/sendEmail/MailConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="56" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="21" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/web/sendEmail/MyConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="56" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://5204f414-91e8-4f33-97f5-92087201fe84/database/EBS-user/schema/public/table/users">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="6e3bfbb8-6908-4489-82f6-de3c9132315b">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <column-attributes>
+            <column name="first_name" position="8" />
+            <column name="password" position="5" />
+            <column name="date" position="7" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/web/Controller/ProfileController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="90" column="37" selection-start-line="90" selection-start-column="37" selection-end-line="90" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/web/Controller/LogController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="146" column="40" lean-forward="true" selection-start-line="146" selection-start-column="40" selection-end-line="146" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4394#4614#0" expanded="true" />
+            <element signature="e#4613#4614#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Blog:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Blog</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

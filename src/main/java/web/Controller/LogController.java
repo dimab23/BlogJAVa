@@ -7,7 +7,6 @@ import org.springframework.data.domain.Sort;
 import org.springframework.data.web.PageableDefault;
 import org.springframework.mail.SimpleMailMessage;
 import org.springframework.mail.javamail.JavaMailSender;
-import org.springframework.mail.javamail.JavaMailSenderImpl;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.security.crypto.password.PasswordEncoder;
@@ -16,8 +15,6 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
 import web.model.*;
 import web.repos.*;
-import web.sendEmail.MailConfig;
-import web.sendEmail.MyConstants;
 
 import javax.mail.*;
 import javax.mail.internet.AddressException;
@@ -107,7 +104,7 @@ public class LogController {
                 result = false;
             }
             System.out.println(result);
-            if(result==true){
+            if(result){
             usersRepository.save(users);
                 String to = users.getEmail();
 
@@ -173,9 +170,15 @@ public class LogController {
                             "text/html");
 
                     // Send message
-                    Transport.send(m);
+                    try {
+                        Transport.send(m);
+                        System.out.println("Sent message successfully....");
+                    }
+                    catch (javax.mail.AuthenticationFailedException e) {
+                        System.out.println(e.getMessage());
+                    }
 
-                    System.out.println("Sent message successfully....");
+
 
                 } catch (MessagingException e) {
                     e.printStackTrace();
@@ -325,8 +328,8 @@ public class LogController {
             String like = "dislike";
             Action action1 = new Action(users, articles, like);
             actionRepository.save(action1);
-            int autorNotification1 = articlesRepository.authoNotification(id_art);
-            Users  users3 = usersRepository.findById(autorNotification1);
+            int authorNotification1 = articlesRepository.authoNotification(id_art);
+            Users  users3 = usersRepository.findById(authorNotification1);
 
             Date date = new Date();
             Notification notification = new Notification();

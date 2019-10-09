@@ -6,8 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="02.05.19" />
         <module name="Blog" />
+        <module name="02.05.19" />
+        <module name="BlogJAVa" />
       </profile>
     </annotationProcessing>
   </component>
@@ -15,6 +16,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="02.05.19" options="-parameters" />
       <module name="Blog" options="-parameters" />
+      <module name="BlogJAVa" options="-parameters" />
     </option>
   </component>
 </project>

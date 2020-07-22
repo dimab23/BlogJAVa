@@ -7,65 +7,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf13a91f-a651-4a99-9eae-1db256b116f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/BlogJAVa.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/web/Controller/LogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/web/Controller/LogController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/web/config/WebSecurity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/web/config/WebSecurity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/web/sendEmail/MyConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/web/sendEmail/MyConstants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Blog.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Blog.jar.original" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/NewPassword.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/Profile.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/ResetPassword.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/articles.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/articles{id}.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/login.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/newArticle.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/parts/common.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/parts/login.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/registration.ftl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/static/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/web/Controller/CommentsController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/web/Controller/ControllerArticles.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/web/Controller/ForgoutController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/web/Controller/LogController$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/web/Controller/LogController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/web/Controller/NotificationController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/web/Controller/ProfileController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/web/Run.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/web/config/MvcConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/web/config/WebSecurity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/web/model/Action.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/web/model/Articles.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/web/model/Comments.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/web/model/Notification.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/web/model/Users.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/web/repos/ActionRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/web/repos/ArticlesRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/web/repos/CommentsRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/web/repos/NotificationRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/web/repos/UsersRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/web/sendEmail/MailConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/web/sendEmail/MyConstants.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/web/model/Action.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/web/model/Action.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/web/repos/ActionRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/web/repos/ActionRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/web/repos/ArticlesRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/web/repos/ArticlesRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/web/repos/CommentsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/web/repos/CommentsRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/web/repos/NotificationRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/web/repos/NotificationRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/web/repos/UsersRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/web/repos/UsersRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/web/sendEmail/MailConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/web/sendEmail/MailConfig.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="CoverageViewManager">
     <option name="myElementSize" value="274" />
@@ -139,21 +97,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IgnoredFileRootStore">
-    <option name="generatedRoots">
-      <set>
-        <option value="D:\BlogJAVa\.idea" />
-      </set>
-    </option>
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1Ry0Bs1CtgofIJYqDTzZHyL1aE5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="redshift&#10;postgresql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -163,6 +114,8 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -203,17 +156,6 @@
         <option value="SpringBootApplicationConfigurationType" />
       </set>
     </option>
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-    <option name="contentProportion" value="0.010286951" />
   </component>
   <component name="RunManager" selected="Spring Boot.Run">
     <configuration name="Blog.jar" type="JarApplication" temporary="true">
@@ -248,26 +190,6 @@
         <item itemvalue="Docker.src/Dockerfile" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="allServicesViewState">
-      <serviceView>
-        <treeState>
-          <expand>
-            <path>
-              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@cc33d07c" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-            </path>
-            <path>
-              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@cc33d07c" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@6aae3557" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-            </path>
-          </expand>
-          <select />
-        </treeState>
-      </serviceView>
-    </option>
   </component>
   <component name="SpringBeansView">
     <option name="beanDetailsProportion" value="0.3" />
@@ -333,7 +255,8 @@
       <workItem from="1560261151781" duration="837000" />
       <workItem from="1560262727480" duration="2000" />
       <workItem from="1560323937604" duration="10596000" />
-      <workItem from="1570623900513" duration="897000" />
+      <workItem from="1570623900513" duration="1261000" />
+      <workItem from="1588798880952" duration="513000" />
     </task>
     <servers />
   </component>
@@ -347,7 +270,7 @@
     </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -359,6 +282,77 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="859" y="411" key="#Assign_Data_Sources" timestamp="1588799302697">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="859" y="411" key="#Assign_Data_Sources/0.0.1920.1040@0.0.1920.1040" timestamp="1588799302697" />
+    <state width="1293" height="282" key="GridCell.Tab.0.bottom" timestamp="1588799414501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588799414501" />
+    <state width="1293" height="282" key="GridCell.Tab.0.center" timestamp="1588799414501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588799414501" />
+    <state width="1293" height="282" key="GridCell.Tab.0.left" timestamp="1588799414501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588799414501" />
+    <state width="1293" height="282" key="GridCell.Tab.0.right" timestamp="1588799414501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588799414501" />
+    <state width="1293" height="282" key="GridCell.Tab.1.bottom" timestamp="1588799414501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588799414501" />
+    <state width="1293" height="282" key="GridCell.Tab.1.center" timestamp="1588799414501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588799414501" />
+    <state width="1293" height="282" key="GridCell.Tab.1.left" timestamp="1588799414501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588799414501" />
+    <state width="1293" height="282" key="GridCell.Tab.1.right" timestamp="1588799414501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588799414501" />
+    <state width="1293" height="282" key="GridCell.Tab.2.bottom" timestamp="1588799414501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588799414501" />
+    <state width="1293" height="282" key="GridCell.Tab.2.center" timestamp="1588799414501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588799414501" />
+    <state width="1293" height="282" key="GridCell.Tab.2.left" timestamp="1588799414501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588799414501" />
+    <state width="1293" height="282" key="GridCell.Tab.2.right" timestamp="1588799414501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588799414501" />
+    <state width="1293" height="282" key="GridCell.Tab.3.bottom" timestamp="1588799414501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588799414501" />
+    <state width="1293" height="282" key="GridCell.Tab.3.center" timestamp="1588799414501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588799414501" />
+    <state width="1293" height="282" key="GridCell.Tab.3.left" timestamp="1588799414501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588799414501" />
+    <state width="1293" height="282" key="GridCell.Tab.3.right" timestamp="1588799414501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="282" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588799414501" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
